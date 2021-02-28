@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Front-End developer with experiences in projects using JavaScript, TypeScript and ReactJS.
+
+
+see my LinkedIn: <a href="https://linkedin.com/lucastrindadebarra">lucastrindadebarra</a> 
