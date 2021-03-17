@@ -9,6 +9,7 @@ Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver pro
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - Nodejs
 - Git
