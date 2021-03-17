@@ -6,12 +6,12 @@ Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver pro
 
 
 ## Technologies
--HTML
--CSS
--JavaScript
--React
--Nodejs
--Git
+- HTML
+- CSS
+- JavaScript
+- React
+- Nodejs
+- Git
 
 
 **Languages and Tools:**  
@@ -25,4 +25,3 @@ Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver pro
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/lucastrindadebarra/">Linkedin</a>
 - <a href="mailto:lucastbarra@hotmail.com">E-mail</a>
-- <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
