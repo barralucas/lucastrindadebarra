@@ -2,7 +2,7 @@
 
 
 ## About Me
-Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver projetos utilizando as melhores ferramentas.
+Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver projetos perfomáticos e escaláveis utilizando as melhores ferramentas.
 
 
 ## Technologies
