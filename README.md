@@ -2,7 +2,7 @@
 
 
 ## About Me
-Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver projetos perfomáticos e escaláveis utilizando as melhores ferramentas.
+Tenho 19 anos e atualmente sou desenvolvedor front-end focado em desenvolver projetos perfomáticos e escaláveis utilizando as melhores ferramentas.
 
 
 ## Technologies
@@ -11,6 +11,7 @@ Tenho 18 anos e atualmente sou desenvolvedor front-end focado em desenvolver pro
 - JavaScript
 - TypeScript
 - React
+- nextjs
 - Nodejs
 - Git
 
